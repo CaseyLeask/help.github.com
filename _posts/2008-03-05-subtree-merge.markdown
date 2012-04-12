@@ -42,7 +42,7 @@ Now we'll subtree-merge the repo [tekkub/cork](https://github.com/tekkub/cork) i
 
 <pre class="terminal">
 [tekkub@tekBook: ~/tmp/test master]
-$ git remote add -f cork git://github.com/tekkub/cork.git
+$ git remote add -f cork git://github.com/tekkub/Cork.git
 Updating cork
 warning: no common commits
 remote: Counting objects: 1732, done.
