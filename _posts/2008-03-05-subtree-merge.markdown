@@ -72,7 +72,7 @@ Next, we'll merge in [tekkub/panda](https://github.com/tekkub/panda) into the pa
 
 <pre class="terminal">
 [tekkub@tekBook: ~/tmp/test master]
-$ git remote add -f panda git://github.com/tekkub/panda.git
+$ git remote add -f panda git://github.com/tekkub/Panda.git
 Updating panda
 warning: no common commits
 remote: Counting objects: 974, done.
